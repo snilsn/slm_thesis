@@ -1,0 +1,2 @@
+model_checkpoint_path: "sharp-2001.ckpt"
+all_model_checkpoint_paths: "sharp-2001.ckpt"
