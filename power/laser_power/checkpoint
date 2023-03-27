@@ -1,0 +1,2 @@
+model_checkpoint_path: "laser_power-31380.ckpt"
+all_model_checkpoint_paths: "laser_power-31380.ckpt"
